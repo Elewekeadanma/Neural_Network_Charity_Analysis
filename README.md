@@ -17,4 +17,5 @@ I used 100 epochs. I noticed that when I reduced the number of epochs the accura
 ![2nd Optimization](https://github.com/Elewekeadanma/Neural_Network_Charity_Analysis/blob/main/images/optimization2.jpg)
 ![Results of the 2nd Optimization](https://github.com/Elewekeadanma/Neural_Network_Charity_Analysis/blob/main/images/result_optimization2.jpg)
 ---
-![3rd Optimization](
+![3rd Optimization](https://github.com/Elewekeadanma/Neural_Network_Charity_Analysis/blob/main/images/optimization3.jpg)
+![Results of the 3rd Optimization](
