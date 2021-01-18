@@ -14,7 +14,7 @@ The variables that should be removed from input data are Name and  Afflliation.
 ### Compiling, Training and Evaluating the Model
 I started out with using 2 layers, increased to 3 layers and finally decided to stay with 2 layers because I was not getting a better accuracy with 3 layers.
 The tanh function gave me very low accuaracies , Relu activation function gave a better model performance.
-I used 100 epochs. I noticed that when I reduced the number of epochs the accuracy reduced drastically.
+I used 100 epochs. I noticed that when I reduced the number of epochs, the accuracy reduced drastically.
 
 ---
 ![Ist Optimization](https://github.com/Elewekeadanma/Neural_Network_Charity_Analysis/blob/main/images/optimization1.jpg)
