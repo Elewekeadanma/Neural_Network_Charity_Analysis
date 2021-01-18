@@ -1,6 +1,7 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the analysis
 The purpose of this analysis is to analyze the impact of each donation to recipients of AlphabetSoup's funding. We want to predict which organizations are worth donating to and which organizations are high risk. A deep learning neural network wil be designed and trained to evaluate all types of input data and produce clear decision making results.
+
 ## Results
 ---
 ### Data Preprocessing
@@ -21,4 +22,5 @@ I used 100 epochs. I noticed that when I reduced the number of epochs the accura
 ![Results of the 3rd Optimization](https://github.com/Elewekeadanma/Neural_Network_Charity_Analysis/blob/main/images/result_optimization3.jpg)
 ---
 ## Summary
-
+I got the best accuracy with using 100 nuerons in the first layer and 80 neurons in the second layer. 100 epochs were used.
+However, I will recommend using the Random forest classifier because they can easily handle outliers and nonlinear data. They are also very fast.
